@@ -10,7 +10,7 @@ Eureka service registry for the FlowPay microservices ecosystem. All services re
 
 ## Tech stack
 
-- Kotlin / Spring Boot 3
+- Kotlin / Spring Boot 4
 - Spring Cloud Netflix Eureka Server
 
 ## Run locally
